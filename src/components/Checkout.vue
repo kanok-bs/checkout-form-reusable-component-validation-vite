@@ -48,4 +48,9 @@ const signUpButtonPressed = () => {
     </form>
   </div>
 </template>
-<style scoped></style>
+<style scoped>
+.form-group{
+  color: rgb(57, 42, 192);
+  display: inline;
+}
+</style>
